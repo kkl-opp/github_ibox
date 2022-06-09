@@ -10,6 +10,7 @@ public class GitTest01 {
         Animals animals = new Animals("Panda", 8);
         animals.eat();
         System.out.println("hello git ");
+        System.out.println("hello git1 ");
     }
 }
 
